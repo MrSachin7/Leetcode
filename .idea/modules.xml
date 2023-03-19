@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInt/RomanToInt.iml" filepath="$PROJECT_DIR$/RomanToInt/RomanToInt.iml" />
     </modules>
   </component>
