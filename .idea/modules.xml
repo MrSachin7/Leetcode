@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInt/RomanToInt.iml" filepath="$PROJECT_DIR$/RomanToInt/RomanToInt.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidParenthesis/ValidParenthesis.iml" filepath="$PROJECT_DIR$/ValidParenthesis/ValidParenthesis.iml" />
     </modules>
   </component>
 </project>
